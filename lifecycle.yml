@@ -9,7 +9,7 @@ environment:
 services:
   - name: 'lifecycle-dev-test'
     github:
-      repository: 'bryantcabrera/lifecycle-dev-test'
+      repository: 'BryantCabrera/lifecycle-dev-test'
       branchName: 'main'
       docker:
         defaultTag: 'main'
